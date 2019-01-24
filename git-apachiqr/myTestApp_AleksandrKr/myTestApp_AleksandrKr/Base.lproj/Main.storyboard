@@ -23,7 +23,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Open Second ViewControler"/>
                                 <connections>
-                                    <segue destination="cPH-Gg-hln" kind="show" id="8sU-KP-2lS"/>
+                                    <segue destination="cPH-Gg-hln" kind="show" identifier="GoToSecondVC" id="8sU-KP-2lS"/>
                                 </connections>
                             </button>
                         </subviews>
